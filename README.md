@@ -1,9 +1,11 @@
 <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=Myint%20Myint%20Thi&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20|%20Java%20Backend%20Developer%20|%20Future%20Software%20Engineer&descAlignY=58&descSize=18" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=Myint%20Myint%20Thi&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20|%20Java%20Backend%20Developer%20|%20Future%20Software%20Engineer&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+I'm+Myint+Myint+Thi+🌸;Software+Developer+💻;Java+Backend+Developer+☕;Future+Software+Engineer+🚀;Learning+Data+Science+📊" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello+I'm+Myint+Myint+Thi+🌸;Software+Developer+💻;Java+Backend+Developer+☕;Future+Software+Engineer+🚀;Learning+Data+Science+📊" />
+</p>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=myintmyintthi761&style=for-the-badge&color=ff69b4)
